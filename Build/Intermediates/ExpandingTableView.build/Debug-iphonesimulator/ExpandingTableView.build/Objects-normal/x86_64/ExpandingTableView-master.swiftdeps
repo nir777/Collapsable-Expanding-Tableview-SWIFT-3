@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2d24fd765b6e606e642678a8a620263b"
+build_time: [545816342, 935733000]
+inputs:
+  "/Users/apple-1/Downloads/Expanding-TableView-master/ExpandingTableView/ExpandingTVC.swift": [545816340, 0]
+  "/Users/apple-1/Downloads/Expanding-TableView-master/ExpandingTableView/ViewController.swift": [534743080, 0]
+  "/Users/apple-1/Downloads/Expanding-TableView-master/ExpandingTableView/DefaultCell.swift": [545814330, 0]
+  "/Users/apple-1/Downloads/Expanding-TableView-master/ExpandingTableView/AppDelegate.swift": [534743080, 0]
+  "/Users/apple-1/Downloads/Expanding-TableView-master/ExpandingTableView/DestinationData.swift": [545814790, 0]
+  "/Users/apple-1/Downloads/Expanding-TableView-master/ExpandingTableView/ExpansionCell.swift": [534743080, 0]

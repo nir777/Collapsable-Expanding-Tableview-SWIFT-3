@@ -1,0 +1,170 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DefaultCell"
+provides-nominal:
+- "C18ExpandingTableView11DefaultCell"
+provides-member:
+- ["C18ExpandingTableView11DefaultCell", ""]
+provides-dynamic-lookup:
+- "DestinationLabel"
+- "PriceLabel"
+depends-top-level:
+- "UITableViewCell"
+- "UILabel"
+- "DefaultCell"
+depends-member:
+- ["Ps9AnyObject", "DestinationLabel"]
+- ["Ps9AnyObject", "PriceLabel"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- ["PSo15CALayerDelegate", "DestinationLabel"]
+- ["PSo15CALayerDelegate", "PriceLabel"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", ""]
+- ["Ps7CVarArg", "DestinationLabel"]
+- ["Ps7CVarArg", "PriceLabel"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "DestinationLabel"]
+- ["Ps28CustomDebugStringConvertible", "PriceLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "DestinationLabel"]
+- ["Ps23CustomStringConvertible", "PriceLabel"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- ["C18ExpandingTableView11DefaultCell", "DestinationLabel"]
+- ["C18ExpandingTableView11DefaultCell", "PriceLabel"]
+- ["C18ExpandingTableView11DefaultCell", "UILabel"]
+- ["C18ExpandingTableView11DefaultCell", "deinit"]
+- ["C18ExpandingTableView11DefaultCell", "init"]
+- ["Ps9Equatable", "DestinationLabel"]
+- ["Ps9Equatable", "PriceLabel"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "DestinationLabel"]
+- ["Ps8Hashable", "PriceLabel"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "DestinationLabel"]
+- ["PSo8NSCoding", "PriceLabel"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "DestinationLabel"]
+- ["CSo8NSObject", "PriceLabel"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "DestinationLabel"]
+- ["PSo16NSObjectProtocol", "PriceLabel"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["PSo29UIAccessibilityIdentification", "DestinationLabel"]
+- ["PSo29UIAccessibilityIdentification", "PriceLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "DestinationLabel"]
+- ["PSo12UIAppearance", "PriceLabel"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "DestinationLabel"]
+- ["PSo21UIAppearanceContainer", "PriceLabel"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "DestinationLabel"]
+- ["PSo17UICoordinateSpace", "PriceLabel"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "DestinationLabel"]
+- ["PSo13UIDynamicItem", "PriceLabel"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "DestinationLabel"]
+- ["PSo18UIFocusEnvironment", "PriceLabel"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo11UIFocusItem", "DestinationLabel"]
+- ["PSo11UIFocusItem", "PriceLabel"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", ""]
+- ["PSo27UIGestureRecognizerDelegate", "DestinationLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "PriceLabel"]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "DestinationLabel"]
+- ["CSo11UIResponder", "PriceLabel"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "init"]
+- ["PSo30UIResponderStandardEditActions", "DestinationLabel"]
+- ["PSo30UIResponderStandardEditActions", "PriceLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo15UITableViewCell", "DestinationLabel"]
+- ["CSo15UITableViewCell", "PriceLabel"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "deinit"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", ""]
+- ["OSC20UITableViewCellStyle", "deinit"]
+- ["PSo18UITraitEnvironment", "DestinationLabel"]
+- ["PSo18UITraitEnvironment", "PriceLabel"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "DestinationLabel"]
+- ["CSo6UIView", "PriceLabel"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "DestinationLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "PriceLabel"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- ["Ps9_Hashable", "DestinationLabel"]
+- ["Ps9_Hashable", "PriceLabel"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "C18ExpandingTableView11DefaultCell"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo15UITableViewCell"
+- "OSC20UITableViewCellStyle"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "0257a82bdcce939085a9942d60729a36"
